@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Smart_Training" data-name="Smart Training" transform="translate(-92 79)">
+    <rect id="Rectangle_780" data-name="Rectangle 780" width="24" height="24" transform="translate(92 -79)" fill="#fff" opacity="0"></rect>
+    <g id="school" transform="translate(11 -200.017)">
+      <g id="Layer_2" data-name="Layer 2" transform="translate(84.421 127.849)">
+        <path id="Path_11952" data-name="Path 11952" d="M5,19.624a.419.419,0,0,0,.419.419H19.23a.419.419,0,0,0,0-.837h-.419V17.95a6.28,6.28,0,0,0-4.353-5.975,3.768,3.768,0,1,0-3.862,0,6.241,6.241,0,0,0-2.329,1.371H5.419a.419.419,0,0,0-.408.5l1.147,5.357H5.419A.419.419,0,0,0,5,19.624ZM9.6,8.742a2.93,2.93,0,1,1,2.93,2.93A2.93,2.93,0,0,1,9.6,8.742Zm2.93,3.767a5.441,5.441,0,0,1,5.441,5.441v1.256H15.38L14.2,13.681a.415.415,0,0,0-.408-.335H9.634A5.407,5.407,0,0,1,12.534,12.509Zm.917,1.674,1.076,5.022H7.009L5.936,14.183Zm-3.429,4.185a1.674,1.674,0,1,0-1.674-1.674A1.674,1.674,0,0,0,10.022,18.368Zm0-2.511a.837.837,0,1,1-.837.837A.837.837,0,0,1,10.022,15.857Z" transform="translate(-5 -4.97)" fill="#fff"></path>
+      </g>
+      <path id="Path_11953" data-name="Path 11953" d="M80.9,129.055v-15.9h22.923v14.6H99.309" transform="translate(0.635 10.819)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+    </g>
+  </g>
+</svg>

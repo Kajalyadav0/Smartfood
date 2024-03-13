@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Smart_HACCP" data-name="Smart HACCP" transform="translate(212 89)">
+    <g id="Group_459" data-name="Group 459" transform="translate(-209.794 -87)">
+      <rect id="Rectangle_727" data-name="Rectangle 727" width="24" height="24" transform="translate(-2.206 -2)" fill="#fff" opacity="0"></rect>
+      <g id="Group_461" data-name="Group 461" transform="translate(-1.206 -0.693)">
+        <path id="Path_12007" data-name="Path 12007" d="M0,0V3.847" transform="translate(10.813 1.617)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <path id="Path_12006" data-name="Path 12006" d="M0,3.847V0" transform="matrix(0.883, 0.469, -0.469, 0.883, 9.209, 15.071)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <path id="Path_12005" data-name="Path 12005" d="M0,3.847V0" transform="translate(16.083 10.71) rotate(-82)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <path id="Path_12004" data-name="Path 12004" d="M0,0V3.847" transform="translate(2.166 12.151) rotate(-101)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <path id="Path_12003" data-name="Path 12003" d="M0,0V3.847" transform="translate(3.531 5.074) rotate(-57)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <path id="Path_12002" data-name="Path 12002" d="M0,0V3.847" transform="matrix(-0.695, 0.719, -0.719, -0.695, 16.714, 17.374)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <path id="Path_12001" data-name="Path 12001" d="M0,3.847V0" transform="matrix(-0.545, -0.839, 0.839, -0.545, 14.76, 6.742)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <g id="Path_12008" data-name="Path 12008" transform="translate(5.982 5.19)" fill="none">
+          <path d="M5.192,0A5.192,5.192,0,1,1,0,5.192,5.192,5.192,0,0,1,5.192,0Z" stroke="none"></path>
+          <path d="M 5.191518783569336 0.9999990463256836 C 2.880308628082275 0.9999990463256836 0.9999990463256836 2.880308628082275 0.9999990463256836 5.191518783569336 C 0.9999990463256836 7.502728462219238 2.880308628082275 9.383038520812988 5.191518783569336 9.383038520812988 C 7.502728462219238 9.383038520812988 9.383038520812988 7.502728462219238 9.383038520812988 5.191518783569336 C 9.383038520812988 2.880308628082275 7.502728462219238 0.9999990463256836 5.191518783569336 0.9999990463256836 M 5.191518783569336 -9.5367431640625e-07 C 8.058718681335449 -9.5367431640625e-07 10.38303852081299 2.324318885803223 10.38303852081299 5.191518783569336 C 10.38303852081299 8.058718681335449 8.058718681335449 10.38303852081299 5.191518783569336 10.38303852081299 C 2.324318885803223 10.38303852081299 -9.5367431640625e-07 8.058718681335449 -9.5367431640625e-07 5.191518783569336 C -9.5367431640625e-07 2.324318885803223 2.324318885803223 -9.5367431640625e-07 5.191518783569336 -9.5367431640625e-07 Z" stroke="none" fill="#fff"></path>
+        </g>
+        <path id="Path_12000" data-name="Path 12000" d="M1.527,0A1.527,1.527,0,1,1,0,1.527,1.527,1.527,0,0,1,1.527,0Z" transform="translate(9.035 -0.307)" fill="#fff"></path>
+        <path id="Path_11999" data-name="Path 11999" d="M1.5,0A1.5,1.5,0,1,1,0,1.5,1.5,1.5,0,0,1,1.5,0Z" transform="matrix(0.883, 0.469, -0.469, 0.883, 6.583, 16.822)" fill="#fff"></path>
+        <path id="Path_11998" data-name="Path 11998" d="M1.5,0A1.5,1.5,0,1,1,0,1.5,1.5,1.5,0,0,1,1.5,0Z" transform="translate(18.62 12.619) rotate(-82)" fill="#fff"></path>
+        <path id="Path_11997" data-name="Path 11997" d="M1.5,0A1.5,1.5,0,1,1,0,1.5,1.5,1.5,0,0,1,1.5,0Z" transform="translate(0.571 14.027) rotate(-101)" fill="#fff"></path>
+        <path id="Path_11994" data-name="Path 11994" d="M1.5,0A1.5,1.5,0,1,1,0,1.5,1.5,1.5,0,0,1,1.5,0Z" transform="translate(1.081 5.316) rotate(-57)" fill="#fff"></path>
+        <path id="Path_11996" data-name="Path 11996" d="M1.5,0A1.5,1.5,0,1,1,0,1.5,1.5,1.5,0,0,1,1.5,0Z" transform="matrix(-0.695, 0.719, -0.719, -0.695, 19.165, 17.604)" fill="#fff"></path>
+        <path id="Path_11995" data-name="Path 11995" d="M1.5,0A1.5,1.5,0,1,1,0,1.5,1.5,1.5,0,0,1,1.5,0Z" transform="matrix(-0.545, -0.839, 0.839, -0.545, 17.928, 6.518)" fill="#fff"></path>
+      </g>
+    </g>
+  </g>
+</svg>

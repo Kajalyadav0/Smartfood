@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Smart_Docs" data-name="Smart Docs" transform="translate(-85 -23)">
+    <rect id="Rectangle_770" data-name="Rectangle 770" width="24" height="24" transform="translate(85 23)" fill="#12539e" opacity="0"></rect>
+    <g id="circle" transform="translate(91.237 27.958)">
+      <g id="Group_460" data-name="Group 460">
+        <path id="Path_11988" data-name="Path 11988" d="M8.063,0a8.063,8.063,0,1,0,8.063,8.063A8.081,8.081,0,0,0,8.063,0Zm0,15.182a7.118,7.118,0,1,1,7.118-7.118A7.126,7.126,0,0,1,8.063,15.182Z" transform="translate(-1.776 -1.24)" fill="#fff"></path>
+        <path id="Path_11989" data-name="Path 11989" d="M13378.3-61.592a11.605,11.605,0,0,1,4.431-1.133,9.976,9.976,0,0,1,4.212,1.133" transform="translate(-13376.416 59.768)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <path id="Path_11992" data-name="Path 11992" d="M13378.3-62.725a11.605,11.605,0,0,0,4.431,1.133,9.976,9.976,0,0,0,4.212-1.133" transform="translate(-13376.416 78.353)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <path id="Path_11990" data-name="Path 11990" d="M0,1.133A11.614,11.614,0,0,1,4.431,0,9.98,9.98,0,0,1,8.643,1.133" transform="translate(-4.237 11.223) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+        <path id="Path_11991" data-name="Path 11991" d="M0,0A11.613,11.613,0,0,0,4.431,1.133,9.984,9.984,0,0,0,8.644,0" transform="translate(15.509 11.223) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"></path>
+      </g>
+    </g>
+  </g>
+</svg>
